@@ -73,7 +73,7 @@ class TicTacToe
   
   def draw?
     
-    @board.all?
+    @full? && @
   
   
   end
